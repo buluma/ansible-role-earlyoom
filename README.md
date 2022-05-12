@@ -41,7 +41,7 @@ The default values for the variables are set in `defaults/main.yml`:
 ---
 # defaults file for earlyoom
 
-earlyoom_version: v1.6
+earlyoom_version: v1.7
 earlyoom_clone_destination: /tmp/earlyoom
 earlyoom_installation_destination: /usr/bin
 

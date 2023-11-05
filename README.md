@@ -2,9 +2,9 @@
 
 Install and configure Early Out Of Memory Killer on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-earlyoom/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-earlyoom/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-earlyoom/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-earlyoom)|[![quality](https://img.shields.io/ansible/quality/59162)](https://galaxy.ansible.com/buluma/earlyoom)|[![downloads](https://img.shields.io/ansible/role/d/59162)](https://galaxy.ansible.com/buluma/earlyoom)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-earlyoom/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-earlyoom/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-earlyoom/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-earlyoom)|[![downloads](https://img.shields.io/ansible/role/d/4693)](https://galaxy.ansible.com/buluma/earlyoom)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-earlyoom.svg)](https://github.com/buluma/ansible-role-earlyoom/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 

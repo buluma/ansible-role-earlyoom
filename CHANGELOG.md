@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#20](https://github.com/buluma/ansible-role-earlyoom/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#19](https://github.com/buluma/ansible-role-earlyoom/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#18](https://github.com/buluma/ansible-role-earlyoom/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump dependabot/fetch-metadata from 1 to 2 [\#17](https://github.com/buluma/ansible-role-earlyoom/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))

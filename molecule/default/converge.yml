@@ -10,4 +10,4 @@
       when: ansible_os_family == 'Debian'
 
   roles:
-    - role: ansible-role-earlyoom
+    - role: buluma.earlyoom

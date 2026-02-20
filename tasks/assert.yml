@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test earlyoom_version
   ansible.builtin.assert:
     that:

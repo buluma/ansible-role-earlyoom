@@ -5,4 +5,4 @@
 repository:
   description: Install and configure Early Out Of Memory Killer on your system.
   homepage: https://buluma.github.io/
-  topics: earlyoom, system, ansible, molecule, tox, playbook
+  topics: earlyoom, system, ansible, molecule, playbook

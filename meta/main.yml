@@ -6,12 +6,10 @@ galaxy_info:
   license: Apache-2.0
   company: ShadowNet
   min_ansible_version: "2.12"
-
   platforms:
     - name: EL
       versions:
-        - "8"
-        - "9"
+        - all
     - name: Debian
       versions:
         - all
@@ -24,9 +22,7 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-
   galaxy_tags:
     - earlyoom
     - system
-
 dependencies: []

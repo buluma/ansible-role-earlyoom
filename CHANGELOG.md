@@ -32,6 +32,7 @@
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#18](https://github.com/buluma/ansible-role-earlyoom/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump dependabot/fetch-metadata from 1 to 2 [\#17](https://github.com/buluma/ansible-role-earlyoom/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-earlyoom/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-earlyoom/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#12](https://github.com/buluma/ansible-role-earlyoom/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.4.0](https://github.com/buluma/ansible-role-earlyoom/tree/0.4.0) (2024-01-20)
@@ -49,7 +50,6 @@
 
 **Merged pull requests:**
 
-- Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-earlyoom/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#9](https://github.com/buluma/ansible-role-earlyoom/pull/9) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#8](https://github.com/buluma/ansible-role-earlyoom/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 

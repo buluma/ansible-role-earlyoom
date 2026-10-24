@@ -83,7 +83,7 @@ The default values for the variables are set in [`defaults/main.yml`](https://gi
 ---
 # defaults file for earlyoom
 
-earlyoom_version: v1.7
+earlyoom_version: "v1.9.0"
 earlyoom_clone_destination: /tmp/earlyoom
 earlyoom_installation_destination: /usr/bin
 
